@@ -1,2 +1,3 @@
 # hellow-wolrd-react-native
-React Native: Utilizando a tecologia React para desenvolvimento de aplicações mobile
+ :dart:	 Nesse projeto desenvolvi um simples Hellow Word utillizando a tecnologia ReactNative. Com base em cursos de especialização. 
+ 
